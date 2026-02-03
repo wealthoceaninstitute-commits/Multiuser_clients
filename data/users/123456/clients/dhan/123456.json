@@ -1,0 +1,13 @@
+{
+    "broker": "dhan",
+    "userid": "123456",
+    "name": "pra",
+    "mobile": "9739070755",
+    "pin": "1001",
+    "apikey": "sjdgsajsajd",
+    "api_secret": "sahdkasbdsak",
+    "totpkey": "z,bsbsajbsaj",
+    "capital": 10000,
+    "session_active": false,
+    "created_at": "2026-02-03T13:25:57.310214"
+}
