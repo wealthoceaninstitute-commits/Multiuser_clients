@@ -6,8 +6,10 @@
     "pin": "1001",
     "apikey": "ddg,dg352dgdg,df/",
     "api_secret": "sfn.ddf",
-    "totpkey": "24",
+    "totpkey": "2454dsd",
     "capital": "",
     "session_active": false,
-    "created_at": "2026-02-03T12:37:10.989135"
+    "created_at": "2026-02-03T12:37:11.529927",
+    "token_warning": false,
+    "last_token_check": "2026-02-03T12:37:12.938618Z"
 }
