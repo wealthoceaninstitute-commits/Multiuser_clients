@@ -1,0 +1,13 @@
+{
+    "broker": "dhan",
+    "userid": "987456",
+    "name": "nit",
+    "mobile": "34646465",
+    "pin": "1011",
+    "apikey": "dsjgsjsa",
+    "api_secret": "kjadbakjdbsjadgjsa",
+    "totpkey": "jasbdjdjdsbhd",
+    "capital": 200000,
+    "session_active": false,
+    "created_at": "2026-02-04T05:03:04.484650"
+}
