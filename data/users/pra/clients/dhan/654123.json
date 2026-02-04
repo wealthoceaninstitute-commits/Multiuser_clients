@@ -1,0 +1,13 @@
+{
+    "broker": "dhan",
+    "userid": "654123",
+    "name": "san",
+    "mobile": "9739070755",
+    "pin": "1235",
+    "apikey": "skskjgsjgsa",
+    "api_secret": "skjdakgsagsaj",
+    "totpkey": "askjajsgsaj",
+    "capital": 50000,
+    "session_active": false,
+    "created_at": "2026-02-04T05:55:55.356430"
+}
