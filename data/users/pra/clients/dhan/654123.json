@@ -9,5 +9,7 @@
     "totpkey": "askjajsgsaj",
     "capital": 50000,
     "session_active": false,
-    "created_at": "2026-02-04T05:55:55.356430"
+    "created_at": "2026-02-04T05:55:55.356430",
+    "token_warning": false,
+    "last_token_check": "2026-02-04T05:55:56.718514Z"
 }
