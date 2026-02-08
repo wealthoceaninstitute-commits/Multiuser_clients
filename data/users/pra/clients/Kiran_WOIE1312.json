@@ -1,0 +1,14 @@
+{
+  "broker": "motilal",
+  "name": "Kiran",
+  "userid": "WOIE1312",
+  "capital": 50000.0,
+  "creds": {
+    "password": "Wealth@123",
+    "pan": "BDRPM9964N",
+    "apikey": "QZYDxxD6eh1uMQqb",
+    "totpkey": "GA4CNGNWGIWHQV6HIFUJIP22FSWAMSOF"
+  },
+  "owner_userid": "pra",
+  "session_active": true
+}
