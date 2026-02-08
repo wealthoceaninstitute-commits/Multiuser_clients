@@ -1,0 +1,17 @@
+{
+  "broker": "motilal",
+  "name": "Bhavya",
+  "userid": "WOIE1284",
+  "capital": 500000,
+  "creds": {
+    "password": "Vibha$25",
+    "pan": "AVZPB4933B",
+    "apikey": "AB3d1Sd6cezxATcO",
+    "totpkey": "P3X5XBEA5JAKN3PH7ZU5NUQ7GLRWYDNA"
+  },
+  "password": "Vibha$25",
+  "pan": "AVZPB4933B",
+  "apikey": "AB3d1Sd6cezxATcO",
+  "totpkey": "P3X5XBEA5JAKN3PH7ZU5NUQ7GLRWYDNA",
+  "owner_userid": "pra"
+}
