@@ -1,0 +1,13 @@
+{
+  "broker": "motilal",
+  "name": "Milind",
+  "userid": "WOIE1253",
+  "password": "Super@212",
+  "pan": "AGHPM4920G",
+  "apikey": "LR4NwfteBRkoV2li",
+  "totpkey": "JS6TKG77Z4IHFHD4COEF65NWUVDAY62N",
+  "capital": 100000,
+  "session_active": false,
+  "last_login_ts": 0,
+  "last_login_msg": "Not logged in"
+}
