@@ -1,0 +1,13 @@
+{
+  "broker": "motilal",
+  "name": "Vijay Titus",
+  "userid": "WOIE1250",
+  "password": "Pranic@123",
+  "pan": "BQPPV8737H",
+  "apikey": "tejE5o61PDXZUXu4",
+  "totpkey": "V576JHOZ7T62F6MX5S7ASJSFVA7K4QMK",
+  "capital": 50000,
+  "session_active": false,
+  "last_login_ts": 0,
+  "last_login_msg": "Not logged in"
+}
