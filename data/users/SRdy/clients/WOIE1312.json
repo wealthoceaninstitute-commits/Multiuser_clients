@@ -7,7 +7,7 @@
   "apikey": "QZYDxxD6eh1uMQqb",
   "totpkey": "GA4CNGNWGIWHQV6HIFUJIP22FSWAMSOF",
   "capital": 50000,
-  "session_active": false,
-  "last_login_ts": 0,
-  "last_login_msg": "Not logged in"
+  "session_active": true,
+  "last_login_ts": 1772190925,
+  "last_login_msg": "Login successful"
 }
