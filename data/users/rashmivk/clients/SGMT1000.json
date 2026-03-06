@@ -8,6 +8,6 @@
   "totpkey": "9dd69cbb-8a8e-4765-b199-7653bc49c2eb",
   "capital": "",
   "session_active": false,
-  "last_login_ts": 0,
-  "last_login_msg": "Not logged in"
+  "last_login_ts": 1772783687,
+  "last_login_msg": "Login failed"
 }
