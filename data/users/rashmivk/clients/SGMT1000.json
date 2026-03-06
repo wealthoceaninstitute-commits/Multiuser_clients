@@ -4,10 +4,10 @@
   "userid": "SGMT1000",
   "password": "pROFITS@11",
   "pan": "",
-  "apikey": "xD3UDxrbH9NvfYSj",
-  "totpkey": "VK3CUKLPNZFZL5GZN7TZL46ROYRE6IDS",
+  "apikey": "",
+  "totpkey": "",
   "capital": "",
   "session_active": false,
-  "last_login_ts": 1772783855,
-  "last_login_msg": "Login failed"
+  "last_login_ts": 0,
+  "last_login_msg": "Not logged in"
 }
